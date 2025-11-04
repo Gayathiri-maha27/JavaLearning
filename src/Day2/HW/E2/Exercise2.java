@@ -1,4 +1,4 @@
-package Day2;
+package Day2.HW.E2;
 
 import java.util.Scanner;
 public class Exercise2 {

@@ -1,4 +1,4 @@
-package Day1;
+package Day1.CW;
 
 public class HelloWorld  {
     public static void main(String[] args) {
